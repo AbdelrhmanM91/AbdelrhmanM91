@@ -7,7 +7,7 @@
 <a href="mailto:Abdelrhman9.am@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Abdelrahman%20Mohamed-0077B5?style=for-the-badge&logo=Gmail&logoColor=white&color=red"/></a>
 
 
-## 🔧 Technologies & Tools
+## 🛠 Tech Stack
 
 ![VBAl](https://img.shields.io/badge/-VBA-05122A?style=flat&logo=v&logoColor=orange)
 ![EXCEL](https://img.shields.io/badge/-Excel-05122A?style=flat&logo=microsoftexcel&logoColor=green)
