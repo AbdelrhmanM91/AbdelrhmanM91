@@ -3,9 +3,9 @@
 - 💬 Ask me about `VBA` `Excel`
 - 📫 Contact me:
 
-<a href="https://linkedin.com/in/abdelrahman--mohamed" target="_blank"><img src="https://img.shields.io/badge/-Abdelrahman%20Mohamed-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:Abdelrhman9.am@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Abdelrahman%20Mohamed-0077B5?style=for-the-badge&logo=Gmail&logoColor=white&color=red"/></a>
-<a href="https://www.upwork.com/freelancers/abdelrahman1" target="_blank"><img src="https://img.shields.io/badge/-Abdelrahman%20Mohamed-0077B5?style=for-the-badge&logo=Upwork&logoColor=white&color=SpringGreen"/></a>
+<a href="https://linkedin.com/in/abdelrahman--mohamed" target="_blank" rel="noopener noreferrer" ><img src="https://img.shields.io/badge/-Abdelrahman%20Mohamed-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:Abdelrhman9.am@gmail.com" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/-Abdelrahman%20Mohamed-0077B5?style=for-the-badge&logo=Gmail&logoColor=white&color=red"/></a>
+<a href="https://www.upwork.com/freelancers/abdelrahman1" target="_blank" rel="noopener noreferrer" ><img src="https://img.shields.io/badge/-Abdelrahman%20Mohamed-0077B5?style=for-the-badge&logo=Upwork&logoColor=white&color=SpringGreen"/></a>
 
 ## 🛠 Tech Stack
 
