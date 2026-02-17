@@ -20,6 +20,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![JS](https://img.shields.io/badge/-javascript-05122A?style=flat&logo=javascript)&nbsp;
 ![VBAl](https://img.shields.io/badge/-VBA-05122A?style=flat&logo=v&logoColor=orange)
+![Google App Script](https://img.shields.io/badge/-Google%20App%20Script-05122A?style=flat&logo=GAS&logoColor=orange)
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python&logoColor=yellow)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL%20-05122A?style=flat&logo=mysql&logoColor=cyan)&nbsp;
 ![MSSQL](https://img.shields.io/badge/-MsSQL%20-05122A?style=flat&logo=mssql&logoColor=red)&nbsp;
